@@ -1,0 +1,2 @@
+java MemoGameServer
+pause
