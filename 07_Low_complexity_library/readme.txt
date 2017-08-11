@@ -1,4 +1,4 @@
-a Program which runs a library (with low time complexity):
+a Program which runs a library (with low time complexity), implemented with hash tables and linked list:
 each subscriber has the folowing characteristics:
 last name, ID, codes of books (in the form: "XX1234")
 each subscriber has maximum 10 books.
