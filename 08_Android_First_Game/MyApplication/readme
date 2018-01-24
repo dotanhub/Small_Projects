@@ -1,0 +1,3 @@
+An android game which icons are apearing on the screen for an amount of milliseconds and the user need to press it to stay on the screen and not disappear.
+you can restart the game and view the local highscore.
+uses: OnClickListener,Toast,Menu,Shared Prefrences.
