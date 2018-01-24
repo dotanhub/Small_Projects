@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.dotanhuberman.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/show_scores"
+        android:icon="@drawable/ic_hight_score"
+        android:title="@string/scores"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/play_again"
+        android:icon="@drawable/ic_media_repeat"
+        android:title="@string/again"
+        app:showAsAction="ifRoom|withText"
+        />
+</menu>
